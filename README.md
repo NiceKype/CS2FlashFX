@@ -22,8 +22,8 @@
 
 <!-- DESCRIPTION -->
 # <img src="assets/img/cs2flashfx-logo.png" style="height: 25px;"> CS2 Flash FX
-**CS2 Flash FX** synchronizes your Elgato Key Lights with flashbang effects in Counter-Strike 2 using Game State Integration.
-When you get flashed in CS2, your configured Key Lights automatically switch to the configured flash brightness and color temperature before returning to their normal state.
+**CS2 Flash FX** is a fun, hobby-project application that uses "Game State Integration" to synchronize your Elgato Key Lights with the flashbang effects in Counter-Strike 2.
+When you are hit by a flashbang in CS2, your configured Key Lights will automatically switch to a brightness and color temperature of your choosing, before returning to their normal state.
 
 > [!WARNING]
 > CS2FlashFX is currently in **Alpha**. Features, configuration formats and behavior may change before the first stable release.
@@ -34,7 +34,7 @@ When you get flashed in CS2, your configured Key Lights automatically switch to 
 ## Features
 
 - Counter-Strike 2 flashbang detection via Game State Integration
-- Support for multiple Elgato Key Lights
+- Support for multiple Elgato Key Lights (currently two)
 - Configurable flash brightness
 - Configurable flash color temperature
 - Configurable effect duration
@@ -74,7 +74,7 @@ CS2 Flash FX is published as a self-contained application, so no separate .NET i
 5. Verify or select your Counter-Strike 2 installation.
 6. Click **Install Integration**.
 7. Restart Counter-Strike 2 if it is already running.
-8. Configure your Key Light IP addresses and lighting values.
+8. Configure your Key Light IP addresses and lighting values. (You can find your keylight ip in your router settings)
 9. Enable **Flash Effect**.
 
 No traditional installation is required.
