@@ -67,7 +67,7 @@ CS2 Flash FX is published as a self-contained application, so no separate .NET i
 
 ## Installation
 
-1. Download `CS2FlashFX.exe` from the latest GitHub release.
+1. Download `CS2FlashFX.exe` from the latest GitHub [release](https://github.com/NiceKype/CS2FlashFX/releases/tag/v0.1.4-alpha.1).
 2. Save the application anywhere you want.
 3. Start `CS2FlashFX.exe`.
 4. Open the **Settings** tab.
